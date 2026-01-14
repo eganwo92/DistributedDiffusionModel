@@ -62,6 +62,7 @@ DistributedDiffusionModel/
 - Python 3.8 or higher
 - PyTorch 2.0+ with CUDA support (recommended) or CPU-only
 - CUDA-capable GPU (optional but recommended)
+- Local machine or server with PyTorch installed (not designed for cloud notebooks)
 
 ### Setup
 
