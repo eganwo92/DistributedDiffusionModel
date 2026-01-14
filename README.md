@@ -21,7 +21,6 @@ A distributed training and sampling pipeline for class-conditional diffusion mod
 ```
 DistributedDiffusionModel/
 ├── README.md              # This file
-├── LICENSE                # MIT License
 ├── requirements.txt       # Python dependencies
 ├── test_quick.py          # Quick setup test
 ├── configs/               # Configuration files
@@ -292,23 +291,6 @@ python src/check_data.py --data_dir data_textures/dtd/images
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-MIT License
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@software{distributed_diffusion,
-  title = {Distributed Conditional Diffusion for Scalable Image Generation},
-  author = {eganwo92},
-  year = {2024},
-  url = {https://github.com/eganwo92/DistributedDiffusionModel},
-}
-```
 
 ## Acknowledgments
 
