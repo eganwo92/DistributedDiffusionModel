@@ -2,7 +2,6 @@
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A distributed training and sampling pipeline for class-conditional diffusion models (DDPM), featuring data sharding, gradient synchronization, EMA synchronization, and distributed sampling with aggregation.
 
